@@ -1,3 +1,7 @@
+/* Nama : Salma Salsabila
+   Npm  : 227064516069
+*/
+
 #include <iostream>
 using namespace std;
 	
