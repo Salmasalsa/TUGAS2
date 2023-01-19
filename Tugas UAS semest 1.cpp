@@ -1,5 +1,10 @@
-/* Nama : Salma Salsabila
-   Npm  : 227064516069
+/* Kelompok Perempuan :
+1. Ghina Rahma Rukhayah 227064516084
+2. Sanda Fiona 227064516091
+3. Salma Salsabila 227064516069
+4. Fiby Naya Sari 227064516076
+5. Dinda Ahya Ramadhani 227064516068
+6. Claura Tri Rispriatina 227064516061
 */
 
 #include <iostream>
